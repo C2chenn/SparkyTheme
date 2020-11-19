@@ -1,0 +1,70 @@
+{
+  "iconDefinitions": {
+    // .png .jpg .jpeg .gif .bmp .svg .tif .tiff .ico .bmp
+    "_image": {
+      "iconPath": "icons/sparkypic.png"
+    },
+    // .java
+    "_java": {
+      "iconPath": "icons/sparkyjava.png",
+    },
+    // .py
+    "_python": {
+      "iconPath": "icons/sparkypy.png",
+    },
+    // .js
+    "_javascript": {
+      "iconPath": "icons/sparkyjs.png",
+    },
+    // .ts
+    "_typescript": {
+      "iconPath": "icons/sparkyts.png",
+    },
+    // .html
+    "_html": {
+      "iconPath": "icons/sparkyhtml.png",
+    },
+    // .css
+    "_css": {
+      "iconPath": "icons/sparkycss.png",
+    },
+    // .json
+    "_json": {
+      "iconPath": "icons/sparkyjson.png",
+    },
+  },
+  "fileExtensions": {
+    "ts": "_typescript",
+    "js": "_javascript",
+    "py": "_python",
+    "md": "_markdown",
+    "css": "_css",
+    "gss": "_css",
+    "html": "_html",
+    "png": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "gif": "_image",
+    "svg": "_image",
+    "bmp": "_image",
+    "json": "_json",
+  },
+  "languageIds": {
+    "ts": "_typescript",
+    "js": "_javascript",
+    "java": "_java",
+    "css": "_css",
+    "html": "_html",
+    "png": "_image",
+    "jpg": "_image",
+    "jpeg": "_image",
+    "gif": "_image",
+    "svg": "_image",
+    "bmp": "_image",
+    "tif": "_image",
+    "tiff": "_image",
+    "ico": "_image",
+    "py": "_python",
+    "htm": "_html",
+  },
+}

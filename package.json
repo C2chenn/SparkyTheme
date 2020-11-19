@@ -1,0 +1,29 @@
+{
+  "name": "SparkyTheme",
+  "displayName": "SparkyTheme",
+  "description": "A fun sparky firebase theme",
+  "version": "0.0.1",
+  "publisher": "c2chenn",
+  "engines": {
+    "vscode": "^1.51.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "SparkyTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SparkyTheme-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "sparkyIcons",
+        "label": "Sparky Icon Theme",
+        "path": "./themes/SparkyTheme-icon-theme.json"
+      }
+    ]
+  }
+}

@@ -4,6 +4,7 @@
   "description": "A fun sparky firebase theme",
   "version": "0.0.1",
   "publisher": "c2chenn",
+  "icon": "themes/icons/sparkypic.png",
   "engines": {
     "vscode": "^1.51.0"
   },

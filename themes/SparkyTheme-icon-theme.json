@@ -32,6 +32,10 @@
     "_json": {
       "iconPath": "icons/sparkyjson.png",
     },
+    // BUILD
+    "_build": {
+      "iconPath": "icons/sparkybuild.png",
+    },
   },
   "fileExtensions": {
     "ts": "_typescript",
@@ -48,6 +52,9 @@
     "svg": "_image",
     "bmp": "_image",
     "json": "_json",
+  },
+  "fileNames": {
+    "build": "_build",
   },
   "languageIds": {
     "ts": "_typescript",

@@ -6,7 +6,11 @@
   "publisher": "c2chenn",
   "icon": "themes/icons/sparkypic.png",
   "engines": {
-    "vscode": "^1.51.0"
+    "vscode": "^1.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/C2chenn/SparkyTheme"
   },
   "categories": [
     "Themes"

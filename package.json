@@ -2,7 +2,7 @@
   "name": "SparkyTheme",
   "displayName": "SparkyTheme",
   "description": "A fun sparky firebase theme",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "publisher": "c2chenn",
   "icon": "themes/icons/sparkypic.png",
   "engines": {

@@ -36,6 +36,14 @@
     "_build": {
       "iconPath": "icons/sparkybuild.png",
     },
+    // .mp3, .midi
+    "_music": {
+      "iconPath": "icons/sparkymusic.png",
+    },
+    // .rb
+    "_ruby": {
+      "iconPath": "icons/sparkyruby.png",
+    },
   },
   "fileExtensions": {
     "ts": "_typescript",
@@ -44,6 +52,7 @@
     "md": "_markdown",
     "css": "_css",
     "gss": "_css",
+    "scss": "_css",
     "html": "_html",
     "png": "_image",
     "jpg": "_image",
@@ -52,6 +61,9 @@
     "svg": "_image",
     "bmp": "_image",
     "json": "_json",
+    "mp3": "_music",
+    "midi": "_music",
+    "rb": "_ruby",
   },
   "fileNames": {
     "build": "_build",
@@ -61,6 +73,8 @@
     "js": "_javascript",
     "java": "_java",
     "css": "_css",
+    "gss": "_css",
+    "scss": "_css",
     "html": "_html",
     "png": "_image",
     "jpg": "_image",
@@ -73,5 +87,8 @@
     "ico": "_image",
     "py": "_python",
     "htm": "_html",
+    "mp3": "_music",
+    "midi": "_music",
+    "rb": "_ruby",
   },
 }
